@@ -1,0 +1,9 @@
+id;fistname;lastname;room;valid
+1;doanh;vu;tc;1
+2;anh;nguyen;kt;1
+3;chau;nguyen;dstk;1
+4;hoang;nguyen;dstk;0
+5;binh;ngo;dstk;1
+6;vung;quach;ptdl;1
+7;hieu;chu;ptdl;1
+8;tuan;nguyen;dstk;1
